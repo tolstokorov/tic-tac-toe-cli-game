@@ -1,9 +1,7 @@
-# CLI Tic Tac Toe Game 
+# Tic Tac Toe CLI Game 
 
 ## *written in the C programming language*
 ## *written in the beginning of summer 2018*
-
----
 
 This is my first program. It's really awful. Seriously. But I wrote it after 2 month of studying by *K&R book*. Now I don't use the C language in my work.
 
